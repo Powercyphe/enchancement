@@ -177,5 +177,5 @@
   "enchancement.midnightconfig.enum.AllowDuplicateKeybindingsMode.NONE": "Keine",
   "enchancement.midnightconfig.enum.AllowDuplicateKeybindingsMode.VANILLA_AND_ENCHANCEMENT": "Vanilla und Enchancement",
   "enchancement.midnightconfig.enum.AllowDuplicateKeybindingsMode.ALL": "Alle",
-  "enchancement.midnightconfig.singlePressStrafe": "Einzeldruck"
+  "enchancement.midnightconfig.singlePressStrafe": "Einzeldruck Weichen"
 }
